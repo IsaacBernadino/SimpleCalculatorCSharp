@@ -1,0 +1,16 @@
+D:\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+D:\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+D:\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+D:\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+D:\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+D:\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.mainWindow.resources
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Properties.Resources.resources
+D:\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache

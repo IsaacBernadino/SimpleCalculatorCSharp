@@ -1,2 +1,2 @@
 # SimpleCalculatorCSharp
-Calculadora simples para windows escrita em C#;
+Simple calculator for windows written in C #;
